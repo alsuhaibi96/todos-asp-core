@@ -29,6 +29,7 @@ if (app.Environment.IsDevelopment())
 
 // app.MapGet("/users/{userId}/books/{bookId}", 
 //     (int userId, int bookId) => $"The user id is {userId} and book id is {bookId}");
+app.MapGet("/", () => "hello world");
 app.MapGet("/todoitems",async(TodoDb db)=>
 await db.Todos.ToListAsync());
 
