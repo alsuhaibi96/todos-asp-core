@@ -14,6 +14,12 @@ builder.Services.AddOpenApiDocument(config =>
 
 var app = builder.Build();
 
+app.Use(async (context,next)=>{
+    Console.WriteLine($"[{context.Request.Method} {context.Request.Path} {DateTime.UtcNow}] Started");
+    await next(context);
+    Console.WriteLine($"[{context.Request.Method} {context.Request.Path} {DateTime.UtcNow}] finshed");
+});
+
 
 if (app.Environment.IsDevelopment())
 {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/web-developer/projects/dotnet/myFirstDotNetApp/myFirstDotNetApp.csproj": {}
+    "/home/abdulrahman/projects/netcore/todos-asp-core/myFirstDotNetApp.csproj": {}
   },
   "projects": {
-    "/home/web-developer/projects/dotnet/myFirstDotNetApp/myFirstDotNetApp.csproj": {
+    "/home/abdulrahman/projects/netcore/todos-asp-core/myFirstDotNetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/web-developer/projects/dotnet/myFirstDotNetApp/myFirstDotNetApp.csproj",
+        "projectUniqueName": "/home/abdulrahman/projects/netcore/todos-asp-core/myFirstDotNetApp.csproj",
         "projectName": "myFirstDotNetApp",
-        "projectPath": "/home/web-developer/projects/dotnet/myFirstDotNetApp/myFirstDotNetApp.csproj",
-        "packagesPath": "/home/web-developer/.nuget/packages/",
-        "outputPath": "/home/web-developer/projects/dotnet/myFirstDotNetApp/obj/",
+        "projectPath": "/home/abdulrahman/projects/netcore/todos-asp-core/myFirstDotNetApp.csproj",
+        "packagesPath": "/home/abdulrahman/.nuget/packages/",
+        "outputPath": "/home/abdulrahman/projects/netcore/todos-asp-core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/web-developer/.nuget/NuGet/NuGet.Config"
+          "/home/abdulrahman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
