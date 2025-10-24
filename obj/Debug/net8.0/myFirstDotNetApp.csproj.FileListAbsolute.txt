@@ -90,7 +90,6 @@
 /home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/myFirstDotNetApp.csproj.CoreCompileInputs.cache
 /home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/myFirstDotNetApp.MvcApplicationPartsAssemblyInfo.cs
 /home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/myFirstDotNetApp.MvcApplicationPartsAssemblyInfo.cache
-/home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/myFirstDotNetApp.sourcelink.json
 /home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/staticwebassets.build.json
 /home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/staticwebassets.development.json
 /home/abdulrahman/projects/netcore/todos-asp-core/obj/Debug/net8.0/staticwebassets/msbuild.myFirstDotNetApp.Microsoft.AspNetCore.StaticWebAssets.props
